@@ -99,7 +99,7 @@ button {
 
 @media (min-width: 576px) and (max-width: 1200px) {
   .big-text {
-      max-width: 80vw;
+      max-width: 70vw;
   }
 }
 
